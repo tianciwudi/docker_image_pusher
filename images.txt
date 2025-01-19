@@ -1,3 +1,4 @@
 #vllm/vllm-openai:latest
 #ubuntu
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+bytemark/webdav
