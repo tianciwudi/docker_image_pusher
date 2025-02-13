@@ -1,0 +1,2 @@
+ghcr.io/ggerganov/llama.cpp:full
+ghcr.io/ggerganov/llama.cpp:server
