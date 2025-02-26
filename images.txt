@@ -1,4 +1,6 @@
 #ghcr.io/ggerganov/llama.cpp:full
 #ghcr.io/ggerganov/llama.cpp:server
 #ghcr.io/ggerganov/llama.cpp:server-cuda
-qwenllm/qwenvl:2.5-cu121
+#qwenllm/qwenvl:2.5-cu121
+michaelf34/infinity:0.0.68-trt-onnx
+michaelf34/infinity:latest-trt-onnx
