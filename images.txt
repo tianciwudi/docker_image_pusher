@@ -4,4 +4,5 @@
 #qwenllm/qwenvl:2.5-cu121
 #michaelf34/infinity:0.0.68-trt-onnx
 #michaelf34/infinity:latest-trt-onnx
-ghcr.io/cinnamon/kotaemon:main-full
+#ghcr.io/cinnamon/kotaemon:main-full
+ghcr.io/cinnamon/kotaemon:main-ollama
