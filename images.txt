@@ -6,5 +6,6 @@
 #michaelf34/infinity:latest-trt-onnx
 #ghcr.io/cinnamon/kotaemon:main-full
 #ghcr.io/cinnamon/kotaemon:main-ollama
-ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:ollama
+#ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:ollama
+istio/install-cni:1.14.6
