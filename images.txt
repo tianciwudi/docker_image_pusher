@@ -10,4 +10,5 @@
 #ghcr.io/open-webui/open-webui:ollama
 #istio/install-cni:1.14.6
 #library/docker:19.03
-kubesphere/ks-installer:v3.4.1-patch.0
+#kubesphere/ks-installer:v3.4.1-patch.0
+chatteohr/ktransformers:0.3.0
