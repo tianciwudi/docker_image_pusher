@@ -9,4 +9,5 @@
 #ghcr.io/open-webui/open-webui:main
 #ghcr.io/open-webui/open-webui:ollama
 #istio/install-cni:1.14.6
-library/docker:19.03
+#library/docker:19.03
+kubesphere/ks-installer:v3.4.1-patch.0
