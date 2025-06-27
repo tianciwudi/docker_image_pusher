@@ -14,4 +14,4 @@
 #chatteohr/ktransformers:0.3.0
 #vllm/vllm-openai:v0.8.5.post1
 #ghcr.io/kubeflow/spark-operator/controller
-apache/spark:4.0.0
+apache/spark:3.5.5
