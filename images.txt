@@ -17,4 +17,6 @@
 #apache/spark:3.5.5
 #ghcr.io/kubeflow/spark-operator/controller:2.2.0
 #vllm/vllm-openai:v0.9.2
-ghcr.io/home-assistant/home-assistant:stable
+#ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/kubeflow/spark-operator/controller:2.3.0
+ghcr.io/kubeflow/spark-operator/kubectl:2.3.0
