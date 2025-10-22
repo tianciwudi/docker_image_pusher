@@ -21,4 +21,5 @@
 #ghcr.io/kubeflow/spark-operator/controller:2.3.0
 #ghcr.io/kubeflow/spark-operator/kubectl:2.3.0
 #docker.io/library/spark:4.0.0
-qwenllm/qwen3-omni:3-cu124
+#qwenllm/qwen3-omni:3-cu124
+vllm/vllm-openai:v0.11.0
